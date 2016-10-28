@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Simply Note</string>
+
+    //Edit Activity
+    <string name="subject">Subject:</string>
+    <string name="subjectHint">Subject</string>
+    <string name="bodyHint">Please enter your notes here</string>
+
+    <string name="addNote">Add Note</string>
+    <string name="editNote">Edit Note</string>
+
+    <string name="editorDeleteFailed">Error with deleting note</string>
+    <string name="editorDeleteSuccessful">Note deleted</string>
+
+    <string name="dialogQuestion">Delete this note?</string>
+    <string name="positive">Yes</string>
+    <string name="negative">No</string>
+
+    <string name="unsavedChangesDialog">Discard changes and quit?</string>
+    <string name="discard">Discard</string>
+    <string name="keepEditing">Keep Editing</string>
+</resources>
